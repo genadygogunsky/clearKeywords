@@ -17,5 +17,5 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/keyword-cleaner.git
+git clone https://github.com/genadygogunsky/keyword-cleaner.git
 cd keyword-cleaner
